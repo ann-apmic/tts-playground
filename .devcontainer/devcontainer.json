@@ -1,0 +1,7 @@
+{
+  "name": "Mini Template",
+  "build": {
+    "context": "../",
+    "dockerfile": "Dockerfile"
+  }
+}
